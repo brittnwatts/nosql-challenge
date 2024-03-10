@@ -16,7 +16,7 @@ is a breakdown of the locations of each element of my assignment:
 
     nosql-challenge
         __MACOSX
-        Establishments Challenge
+        uk_foods
             Resources
                 establishments.json
             NoSQL_analysis_starter.ipynb
